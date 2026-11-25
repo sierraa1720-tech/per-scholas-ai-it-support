@@ -20,4 +20,8 @@ Completed Per Scholas AI Skills for IT Support training.
 - **Quiz 4 – Routine Task Automation:** 10/10
 - **Quiz 5 – PowerShell Scripting:** 12/12
 
+- 
+[View Per Scholas AI Skills for IT Support Grade Report](Per-Scholas-AI-Skills-Grade-Proof.pdf)
+
+
 Successfully demonstrated skills in AI-assisted IT documentation, customer service, troubleshooting, routine automation, and PowerShell scripting.
